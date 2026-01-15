@@ -1,5 +1,8 @@
-## Hi there 👋
+# 👩🏻‍💻 Enzo Ferreira
 
+**`Analista de Redes JR`**
+
+Me chamo Enzo Silva Ferreira, tenho 22 anos e sou natural de Minas Gerais. Atualmente, estou cursando Ciências da computação na UNINCOR. Me aprofundo na área de tecnologia, especialmente através de redes de computadores, infraestrutura e sistemas operacionais e junto ao conhecimento que adquiri em desenvolvimento e outras áreas ao longo da graduação estou constantemente me aprimorando para ser um melhor funcionário no mercado de trabalho.
 <!--
 **EnzoFerreira28/EnzoFerreira28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
