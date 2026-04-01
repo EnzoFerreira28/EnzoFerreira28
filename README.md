@@ -24,7 +24,7 @@ ___
     title= RockyLinux
     width= "30px"
     style= "padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rockylinux/rockylinux-original-wordmark.svg"         
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rockylinux/rockylinux-original.svg" 
 />
 
 <img 
@@ -33,7 +33,7 @@ ___
     title= Ubuntu
     width= "30px"
     style= "padding-right: 10px"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"    
 />              
 
 <img 
@@ -44,6 +44,15 @@ ___
     style= "padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"        
 />          
+
+<img 
+    align= left
+    alt= NeoVim
+    title= NeoVim
+    width= "30px"
+    style= "padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg"               
+/>      
 
 
 
