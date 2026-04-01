@@ -20,8 +20,8 @@ ___
  
  <img 
     align= left
-    alt= Rocky Linux
-    title= Rocky Linux
+    alt= RockyLinux
+    title= RockyLinux
     width= "30px"
     style= "padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rockylinux/rockylinux-original-wordmark.svg"         
