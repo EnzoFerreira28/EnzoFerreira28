@@ -4,6 +4,7 @@
 
 Me chamo Enzo Silva Ferreira, tenho 23 anos e sou natural de Minas Gerais. Atualmente, estou cursando Ciências da Computação na UNINCOR. Me aprofundo na área de tecnologia, especialmente através de Sistemas Operacionais e Automação.
 
+Atualmente estou focado em aprender sobre o sistema opeacional Linux e suas Ferramentas.
 ___
 
 🔧 Linguagens e Tecnologias: 
