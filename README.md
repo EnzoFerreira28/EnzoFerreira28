@@ -20,30 +20,32 @@ ___
  
  <img 
     align= left
-    alt= bash
-    title= bash
+    alt= Rocky Linux
+    title= Rocky Linux
     width= "30 px"
     style= "padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rockylinux/rockylinux-original.svg" 
 />
-          
+
 <img 
     align= left
-    alt= bash
-    title= bash
+    alt= Ubuntu
+    title= Ubuntu
+    width= "30 px"
+    style= "padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg"
+/>              
+
+<img 
+    align= left
+    alt= MySql
+    title= MySql
     width= "30 px"
     style= "padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"        
 />          
 
-<img 
-    align= left
-    alt= bash
-    title= bash
-    width= "30 px"
-    style= "padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg"
-/>          
+
 
 
 
