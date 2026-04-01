@@ -22,7 +22,7 @@ ___
     align= left
     alt= Rocky Linux
     title= Rocky Linux
-    width= "30 px"
+    width= "29 px"
     style= "padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rockylinux/rockylinux-original.svg" 
 />
@@ -33,7 +33,7 @@ ___
     title= Ubuntu
     width= "30 px"
     style= "padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"       
 />              
 
 <img 
