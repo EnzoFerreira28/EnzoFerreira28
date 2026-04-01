@@ -7,7 +7,7 @@ Me chamo Enzo Silva Ferreira, tenho 23 anos e sou natural de Minas Gerais. Atual
 Atualmente estou focado em aprender sobre o sistema opeacional Linux e suas Ferramentas.
 ___
 
-🔧 Linguagens e Tecnologias: 
+🔧 **Linguagens e Tecnologias:** 
 
 <img 
     align= left
