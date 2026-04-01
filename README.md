@@ -1,11 +1,59 @@
-## Enzo Ferreira
+## 💾 Enzo Ferreira
+
+**`DevOps`**
+
+Me chamo Enzo Silva Ferreira, tenho 23 anos e sou natural de Minas Gerais. Atualmente, estou cursando Ciências da Computação na UNINCOR. Me aprofundo na área de tecnologia, especialmente através de Sistemas Operacionais e Automação.
+
+___
+
+🔧 Linguagens e Tecnologias: 
+
+<img 
+    align= left
+    alt= bash
+    title= bash
+    width= "30 px"
+    style= "padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"          
+ />
+
+ 
+ <img 
+    align= left
+    alt= bash
+    title= bash
+    width= "30 px"
+    style= "padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rockylinux/rockylinux-original.svg" 
+/>
+          
+<img 
+    align= left
+    alt= bash
+    title= bash
+    width= "30 px"
+    style= "padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"        
+/>          
+
+<img 
+    align= left
+    alt= bash
+    title= bash
+    width= "30 px"
+    style= "padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg"
+/>          
+
+
+
 <!--
 **EnzoFerreira28/EnzoFerreira28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
