@@ -24,7 +24,7 @@ ___
     title= Rocky Linux
     width= "30px"
     style= "padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rockylinux/rockylinux-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rockylinux/rockylinux-original-wordmark.svg"         
 />
 
 <img 
@@ -33,7 +33,7 @@ ___
     title= Ubuntu
     width= "30px"
     style= "padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"       
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg"
 />              
 
 <img 
